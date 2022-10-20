@@ -1,6 +1,4 @@
-
 // Exercicio 01
-/*
 
 let vlrCompra = parseInt(prompt("valor do abastecimento"));
 let litros    = parseFloat(vlrCompra / 6.80);
@@ -87,5 +85,3 @@ let setorUsuario  = prompt("Digite seu setor")
 
 let formNS = nomeSobrenome.toUpperCase();
 alert(`nome: ${formNS} - idade: ${idadeUsuario} - Setor: ${setorUsuario}`);
-
-*/
