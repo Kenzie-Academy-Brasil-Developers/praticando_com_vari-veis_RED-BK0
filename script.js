@@ -9,7 +9,7 @@ alert(`O Cliente abasteceu ${litros.toFixed(2)}L`);
 // Exercicio 02
 
 let temperatura = parseInt(prompt("temperatura em graus Celsius"));
-let formCF = parseFloat((9 * tempCelsius + 160) / 5);
+let formCF = parseFloat((9 * temperatura + 160) / 5);
 alert (`O valor ${temperatura} em Fahrenheit é ${formFC}`); 
 
 
